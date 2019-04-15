@@ -15,3 +15,13 @@
 ```
 # apt install seclists
 ```
+
+## Firefox Add-ons
+
+### FoxyProxy Standard
+
+[FoxyProxy Standard](https://addons.mozilla.org/pt-BR/firefox/addon/foxyproxy-standard/)
+
+### Adblock Plus
+
+[Adblock Plus](https://addons.mozilla.org/pt-BR/firefox/addon/adblock-plus/)
