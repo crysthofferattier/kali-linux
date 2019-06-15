@@ -16,6 +16,14 @@
 # apt install seclists
 ```
 
+## Nfs
+
+[NFS support files common to client and server](https://packages.debian.org/en/sid/nfs-common)
+
+```
+# apt install nfs-common
+```
+
 ## Firefox Add-ons
 
 ### FoxyProxy Standard
