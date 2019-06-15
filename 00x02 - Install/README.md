@@ -18,10 +18,22 @@
 
 ## Nfs
 
-[NFS support files common to client and server](https://packages.debian.org/en/sid/nfs-common)
+* NFS support files common to client and server
+
+Use this package on any machine that uses NFS, either as client or server. Programs included: lockd, statd, showmount, nfsstat, gssd, idmapd and mount.nfs. 
 
 ```
 # apt install nfs-common
+```
+
+* Common Internet File System utilities
+
+The SMB/CIFS protocol provides support for cross-platform file sharing with Microsoft Windows, OS X, and other Unix systems.
+
+This package provides utilities for managing mounts of CIFS network file systems. 
+
+```
+# apt install cifs-utils
 ```
 
 ## Firefox Add-ons
