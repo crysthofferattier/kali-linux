@@ -8,6 +8,10 @@
 # apt dist-upgrade
 ```
 
+## Screen full size - VM
+
+[install-virtualbox-guest-additions-on-kali-linux](https://kifarunix.com/install-virtualbox-guest-additions-on-kali-linux-2020-3/)
+
 ## Unzip rockyou dictionary
 
 ```
