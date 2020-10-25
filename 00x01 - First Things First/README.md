@@ -19,11 +19,15 @@
 # gzip -d rockyou.txt.gz
 ```
 
-## Config BURP Certificate
+## Firefox
 
-### Firefox
+### Addons
 
 [Installing Burp's CA Certificate in Firefox](https://support.portswigger.net/customer/portal/articles/1783087-Installing_Installing%20CA%20Certificate%20-%20FF.html)
+
+[Wappalyzer](https://addons.mozilla.org/en-US/firefox/addon/wappalyzer/)
+
+[Rest Client](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 
 ## Config Metasploit Framework
 
