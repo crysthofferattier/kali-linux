@@ -29,6 +29,8 @@
 
 [Rest Client](https://addons.mozilla.org/en-US/firefox/addon/restclient/)
 
+[FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)
+
 ## Config Metasploit Framework
 
 [Starting Metasploit Framework in Kali](https://docs.kali.org/general-use/starting-metasploit-framework-in-kali)
